@@ -1,0 +1,39 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+form{
+    position:relative;
+    left: 500px;
+    top: 35px;
+}
+p{
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    text-align: justify;
+}
+#textBox1,#textBox2{
+    background-color: #FFFFFF;
+    border: 1px solid #D6D9DC;
+    border-radius: 3px;
+    width: 20%;
+    padding: 10px;
+    font-size: 14px
+    
+}
+#goButton{
+    font-size: 16px;
+  
+    color: #FFFFFF;
+    background-color: #740000;
+  
+    border: none;
+    border-radius: 3px;
+  
+    padding: 10px 40px;
+    cursor: pointer;
+}
+#goButton:hover{
+    background-color: #920012;
+}
